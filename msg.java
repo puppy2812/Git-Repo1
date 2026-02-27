@@ -1,5 +1,5 @@
-public class Msg{
-	public static void main(string[] args){
-		system.out.println("Today is feb 18 2026");
+public class Msg {
+	public static void main(String[] args) {
+		System.out.println("Today is feb 18 2026");
 	}
 }
